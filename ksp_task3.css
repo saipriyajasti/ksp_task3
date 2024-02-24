@@ -1,0 +1,65 @@
+h1{
+  color: orangered;
+  font-family: cursive;
+  text-align: center;
+}
+h3{
+  color: orchid;
+  font-family: Arial;
+
+}
+.htmlclass{
+  color: green;
+  font-family: cursive;
+  text-align: center;
+}
+.she{
+  color: red;
+  font-family: Arial;
+  font-size: 20px;
+}
+.he{
+  color:blue;
+  font-family: Arial;
+  font-size: 30px;
+}
+#htmlid{
+  color: blueviolet;
+  font-family: cursive;
+  text-align: center;
+}
+#her{
+  color: aqua;
+  font-family: Arial;
+  font-size: 20px;
+
+}
+#it{
+  color: aquamarine;
+  font-family: Arial;
+  font-size: 25px;
+}
+#him{
+  color: pink;
+  font-family: Arial;
+  font-size: 30px;
+}
+.boxmodel{
+  color: yellow;
+  background-color: gray;
+  font-family: cursive;
+  text-align: center;
+}
+.box{
+  color:yellowgreen ;
+  background-color: lightcyan;
+  border: 1px dotted black;
+  margin-top: 130px;
+  margin-bottom: 30px;
+  margin-left: 100px;
+  margin-right: 15px;
+  padding-left: 90px;
+  padding-right: 8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
